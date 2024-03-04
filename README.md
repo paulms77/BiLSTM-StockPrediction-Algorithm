@@ -49,7 +49,7 @@ This repository is licensed under Apache 2.0.
                     ├─ bilstm
                     │  └─ *.pt
                     ├─ vae
-                    │   └─ *.pt
+                    │  └─ *.pt
                     └─ xgb
                        └─ *.joblib   
 ```
