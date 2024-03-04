@@ -65,3 +65,6 @@ This repository is licensed under [Apache 2.0](https://github.com/paulms77/BiLST
 - 분석 결과 출력 시스템 개발
 - 최신 트렌드 모델 도입
 - 트레이딩 봇 서비스 1.0 출시
+
+## Developer
+Github: [paulms77](https://github.com/paulms77)
