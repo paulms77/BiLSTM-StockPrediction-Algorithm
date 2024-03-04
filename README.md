@@ -29,7 +29,7 @@ This repository is licensed under Apache 2.0.
 ## Structure
 ```bash
 └─ stock_prediction
-    └─ stock_prediction
+    └─ stock_prediction
         ├─ setup.py
         └─ src
             ├─ stock_prediction_program
