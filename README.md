@@ -7,21 +7,21 @@
 또한 수정 종가, Rolling과 Lagging, 기술적 분석, 감성 분석, Stacked Variational AutoEncoder 등 패턴 캡쳐 기술을 구성하고 있습니다.
 
 ## Requirements
-numpy
-pandas
-chromedriver_autoinstaller
-selenium
-bs4
-urllib
-Python-Io
-datetime
-FinanceDataReader
-pykrx
-Ta-lib
-typing
-xgboost
-statsmodels
-torch
+- numpy
+- pandas
+- chromedriver_autoinstaller
+- selenium
+- bs4
+- urllib
+- Python-Io
+- datetime
+- FinanceDataReader
+- pykrx
+- Ta-lib
+- typing
+- xgboost
+- statsmodels
+- torch
 
 ## License
 This repository is licensed under Apache 2.0.
