@@ -53,8 +53,9 @@ This repository is licensed under [Apache 2.0](https://github.com/paulms77/BiLST
                     └─ xgb
                        └─ *.joblib   
 ```
-## Usage
 
+## Usage
+-
 
 ## Performance
 <img width="612" alt="image" src="https://github.com/paulms77/BiLSTM-StockPrediction-Algorithm/assets/69188065/5d692899-d1b6-4b20-a80d-58f9b0b527e5">
