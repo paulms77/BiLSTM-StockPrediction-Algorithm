@@ -24,7 +24,7 @@
 - torch
 
 ## License
-This repository is licensed under Apache 2.0.
+This repository is licensed under [Apache 2.0](https://github.com/paulms77/BiLSTM-StockPrediction-Algorithm/blob/main/LICENSE).
 
 ## Structure
 ```bash
@@ -55,13 +55,11 @@ This repository is licensed under Apache 2.0.
 ```
 ## Usage
 
-
 ## Performance
 <img width="612" alt="image" src="https://github.com/paulms77/BiLSTM-StockPrediction-Algorithm/assets/69188065/5d692899-d1b6-4b20-a80d-58f9b0b527e5">
 
 ## Additional Development Plans
-
-분석 기법 다양화
-분석 결과 출력 시스템 개발
-최신 트렌드 모델 도입
-트레이딩 봇 서비스 1.0 출시
+- 분석 기법 다양화
+- 분석 결과 출력 시스템 개발
+- 최신 트렌드 모델 도입
+- 트레이딩 봇 서비스 1.0 출시
