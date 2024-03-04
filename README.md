@@ -1,10 +1,10 @@
 # Birdirectional-LSTM Based Stock Prediction
 
 ## Introduction
-이 연구는 Birdirectional-LSTM 을 기반하여 주가 데이터 분석 및 예측을 목적으로 진행하였습니다.
-연구를 위해 KOSPI 상위 10가지 종목들에 대해서
-크롤링 기술을 사용하여 종목 정보와 기업 관련 뉴스 기사를 수집하였습니다.
-또한 수정 종가, Rolling과 Lagging, 기술적 분석, 감성 분석, Stacked Variational AutoEncoder 등 패턴 캡쳐 기술을 구성하고 있습니다.
+This research was conducted for the purpose of analyzing and predicting stock price data based on Birdirectional-LSTM.
+About the top 10 KOSPI stocks for research
+We used crawling technology to collect stock information and company-related news information.
+It also consists of pattern capture technologies such as modified closing price, rolling and lagging, technical analysis, sentiment analysis, and Stacked Variational AutoEncoder.
 
 ## Requirements
 - numpy
