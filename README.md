@@ -6,6 +6,10 @@ About the top 10 KOSPI stocks for research
 We used crawling technology to collect stock information and company-related news information.
 It also consists of pattern capture technologies such as modified closing price, rolling and lagging, technical analysis, sentiment analysis, and Stacked Variational AutoEncoder.
 
+## Paper
+Please refer to the paper (Korean)
+[Drive Pages](https://drive.google.com/file/d/1w75HZnvY-Cx5dHR7KNdrEYsqq_6Zy-by/view?usp=sharing)
+
 ## Requirements
 - numpy
 - pandas
